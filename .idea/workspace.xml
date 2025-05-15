@@ -15,7 +15,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5355b4f-b92a-4792-8800-da6fa93f7dfe" name="Changes" comment="" />
+    <list default="true" id="a5355b4f-b92a-4792-8800-da6fa93f7dfe" name="Changes" comment="Codificacao de Huffman">
+      <change afterPath="$PROJECT_DIR$/entrada/Video.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compactador" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +29,21 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jpedro0807"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jpedro0807/codificacao-de-huffman.git",
+    "accountId": "1638cc4e-0500-44c9-8731-f6139b1dbd29"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -38,10 +58,12 @@
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/Users/joaopedrobarbosadasilva/Documents/trabalho-maligno",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/joaopedrobarbosadasilva/Documents/trabalho-maligno/entrada",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,8 +73,12 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/entrada" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/entrada" />
     </key>
   </component>
   <component name="TaskManager">
@@ -63,11 +89,45 @@
       <option name="presentableId" value="Default" />
       <updated>1746380724632</updated>
       <workItem from="1746380730527" duration="231000" />
-      <workItem from="1746380972696" duration="1634000" />
+      <workItem from="1746380972696" duration="3034000" />
+      <workItem from="1746558976338" duration="2004000" />
+      <workItem from="1746573643426" duration="633000" />
+      <workItem from="1747258410094" duration="4881000" />
     </task>
+    <task id="LOCAL-00001" summary="Codificacao de Huffman">
+      <option name="closed" value="true" />
+      <created>1746383236619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746383236619</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Codificacao de Huffman">
+      <option name="closed" value="true" />
+      <created>1747259967784</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747259967784</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Codificacao de Huffman" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codificacao de Huffman" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
